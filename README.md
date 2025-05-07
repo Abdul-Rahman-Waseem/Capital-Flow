@@ -48,7 +48,7 @@ To explore the app:
 
 ## 🤝 Contributing
 
-However, feel free to suggest features or report bugs via the [Issues](#) tab.
+Feel free to suggest features or report bugs via the [Issues](#) tab.
 
 ---
 
