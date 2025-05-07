@@ -34,7 +34,7 @@
 
 To explore the app:
 
-1. Download the latest APK from the [Releases](#) section (🔗 insert your GitHub release link here).
+1. Download the latest APK from the [Releases](https://github.com/Abdul-Rahman-Waseem/Capital-Flow/releases/tag/v1.0) section.
 2. Install it on any Android device (make sure to allow installations from unknown sources).
 3. Explore the full functionality of Capital Flow with demo data already included.
 
