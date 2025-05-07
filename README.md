@@ -40,12 +40,6 @@ To explore the app:
 
 ---
 
-## 📸 Preview
-
-
-
----
-
 ## 🤝 Contributing
 
 Feel free to suggest features or report bugs via the [Issues](#) tab.
