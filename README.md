@@ -42,7 +42,7 @@ To explore the app:
 
 ## 🤝 Contributing
 
-Feel free to suggest features or report bugs via the [Issues](#) tab.
+Feel free to suggest features or report bugs via the [Issues](https://github.com/Abdul-Rahman-Waseem/Capital-Flow/issues) tab.
 
 ---
 
